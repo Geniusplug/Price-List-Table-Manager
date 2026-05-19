@@ -1,19 +1,2 @@
-# Price-List-Table-Manager
-Modern WordPress plugin to create, manage, and display professional company price lists using Excel or CSV files.
-
-#Main Features
-Upload Excel (.xlsx) and CSV files
-Automatically generate responsive price tables
-Modern and user-friendly design
-Search and filter options
-Pagination support (50 / 100 / All)
-Multiple table layouts and styles
-Frontend shortcode support
-Backend table management system
-Export and download as PDF
-Automatic PDF watermark with website domain
-Mobile responsive interface
-Fast loading and SEO-friendly structure
-Easy installation and setup
-Shortcode Example
-[price_list_table id="1"]
+Modern Company Price List Management System for WordPress
+<p align="center"> <img src="https://img.shields.io/badge/WordPress-Compatible-blue?style=for-the-badge&logo=wordpress" /> <img src="https://img.shields.io/badge/Version-1.0.0-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/PHP-8%2B-purple?style=for-the-badge&logo=php" /> <img src="https://img.shields.io/badge/License-GPL--2.0-orange?style=for-the-badge" /> </p> <p align="center"> A powerful and modern WordPress plugin to create professional company price lists from Excel and CSV files. </p>
